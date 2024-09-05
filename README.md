@@ -133,7 +133,7 @@
 [Executive View.pdf](https://github.com/user-attachments/files/16893795/Executive.View.pdf)
 
 ## Project Outcome
--[x]   By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+- [x]   By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
 
 
